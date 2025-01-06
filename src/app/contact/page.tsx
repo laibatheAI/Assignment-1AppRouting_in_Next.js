@@ -1,6 +1,6 @@
 export default function Contact(){
    return(
-      <div>
+      <div className="pt-24">
             <p>We are working on this page!</p>
       </div>
    );
